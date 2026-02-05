@@ -1,0 +1,12 @@
+{
+  "appId": "app.lovable.8f55d237ea1f4a4c84cf4d1777f16db6",
+  "appName": "SmartAttendance",
+  "webDir": "dist",
+  "server": {
+    "url": "https://8f55d237-ea1f-4a4c-84cf-4d1777f16db6.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
